@@ -10,6 +10,8 @@ Here's how it works:
 * If they go in on rough, they'll become the role of the last player who turned the knob. This includes SCPs (if configured).
 * Yes 914 can shoot people (but only in 914).
 
+**IMPORTANT** By default, this plugin won't do anything. You either have to configure it or set a player to 914 manually. You can configure it to either spawn players in randomly (using a spawn chance) or to make the first player who steps into the SCP-914 room turn into SCP-914.
+
 I have no plans to maintain this. If someone else wants to do so, feel free to! I honestly don't remember writing this plugin, but I felt it would be a tragedy not to upload it somewhere. When I made this, I tried to make it pretty configurable and balanced, and I think it does a good job of that. I can't say whether it's a good idea, but it's without a doubt extremely funny!
 
 ![An image of a player with the label "SCP-914"](https://media.discordapp.net/attachments/673347615328567324/1129978215415431200/image.png?ex=66ac52b8&is=66ab0138&hm=b68403704e47946dfc9adddc4e1a3745afb6fc2ccbfc011836e1ff84426827c1&=&format=webp&quality=lossless&width=1047&height=580)
