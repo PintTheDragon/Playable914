@@ -4,7 +4,7 @@ This adds a brand new SCP to the game called SCP-914. 914 is a neutral SCP, so t
 
 Here's how it works:
 * A player can randomly spawn as 914 (if configured). Or, the first player to walk in can become SCP-914 (also if configured).
-* SCP-914 presses the button.
+* SCP-914 presses the button. No one else presses the button!
 * SCP-914 cannot change the knob to different settings. Other players have to do it for them. Everytime the knob is turned, their health goes down.
 * They can be confined to the SCP-914 room (if configured).
 * If they go in on rough, they'll become the role of the last player who turned the knob. This includes SCPs (if configured).
